@@ -1,1 +1,5 @@
-
+# MSVC link.exe stamps the PE header with the build time by default, which
+# makes identical source produce a different EXE hash on every build.
+# /Brepro removes that timestamp so release builds are byte-reproducible.
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-C", "link-arg=/Brepro"]
