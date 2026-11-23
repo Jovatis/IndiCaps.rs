@@ -1,4 +1,5 @@
-<img width="30" height="30" alt="IndiCapsRustLogo" src="https://github.com/user-attachments/assets/422f53ad-8815-4c37-9cdc-db1efcf00ec4" />
+<img width="140" height="140" alt="IndiCapsRustLogo" src="https://github.com/user-attachments/assets/422f53ad-8815-4c37-9cdc-db1efcf00ec4" />
+
 # IndiCaps.rs
 
 **IndiCaps v2.0.0** — a native Rust Caps Lock & Num Lock indicator for Windows.
