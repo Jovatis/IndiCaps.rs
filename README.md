@@ -4,6 +4,9 @@
 
 **IndiCaps v2.0.0** — a native Rust Caps Lock & Num Lock indicator for Windows.
 
+<img width="1369" height="761" alt="image" src="https://github.com/user-attachments/assets/214635de-324c-45c4-89aa-6bad66bc4685" />
+
+
 Every time you toggle Caps Lock or Num Lock, a small notification built from the original PNG artwork appears at the position you chose, then fades away. No main window, no click interception, no telemetry — just a tiny tray-resident app.
 
 Designed and crafted by **Jovatis**.
